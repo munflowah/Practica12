@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664516546601",
+    "project_id": "fir-login-a0f4c",
+    "storage_bucket": "fir-login-a0f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664516546601:android:1a824a3a2242f208870c38",
+        "android_client_info": {
+          "package_name": "com.example.practica12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_9vW6ItBoTHTy6sb0SmxUcyVMbkGGod8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
